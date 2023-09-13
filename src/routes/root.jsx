@@ -1,7 +1,7 @@
-export default function Root(){
+export default function Root() {
     return (
         <>
-            <div>
+            <div id="sidebar">
                 <h1>React Router Contacts</h1>
                 <div>
                     <form id="search-form" role="search">
