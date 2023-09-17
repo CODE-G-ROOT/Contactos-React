@@ -67,3 +67,5 @@ Si deseas contribuir a este proyecto, ¡estamos abiertos a colaboraciones! Sién
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT. Puedes consultar el archivo [LICENSE](LICENSE) para obtener más información.
+
+
